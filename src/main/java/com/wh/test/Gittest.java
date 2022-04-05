@@ -9,7 +9,8 @@ public class Gittest {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hello world");
-        System.out.println("hello worldnihao");
+        System.out.println("hello hot");
+
 
 
     }
